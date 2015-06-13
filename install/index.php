@@ -41,10 +41,10 @@ class maximaster_seositemappro extends CModule
         $this->MODULE_ID = 'maximaster.seositemappro';
         $this->MODULE_VERSION = '0.1.0';
         $this->MODULE_VERSION_DATE = '2015-06-03 16:23:14';
-        $this->MODULE_NAME = Loc::getMessage('MODULE_NAME');
-        $this->MODULE_DESCRIPTION = Loc::getMessage('MODULE_DESCRIPTION');
+        $this->MODULE_NAME = Loc::getMessage('SEOSITEMAPPRO_MODULE_NAME');
+        $this->MODULE_DESCRIPTION = Loc::getMessage('SEOSITEMAPPRO_MODULE_DESCRIPTION');
         $this->MODULE_GROUP_RIGHTS = 'N';
-        $this->PARTNER_NAME = Loc::getMessage('PARTNER_NAME');;
+        $this->PARTNER_NAME = Loc::getMessage('SEOSITEMAPPRO_PARTNER_NAME');;
         $this->PARTNER_URI = "http://www.maximaster.ru/";
     }
 
